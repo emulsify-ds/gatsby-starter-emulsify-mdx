@@ -10,6 +10,6 @@
   "scripts": {
     "develop": "gatsby develop",
     "build": "gatsby build",
-    "deploy-styleguide": "gatsby build --prefix-paths && gh-pages -d public"
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   }
 }
