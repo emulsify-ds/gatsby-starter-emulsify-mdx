@@ -5,7 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "gatsby": "^2.23.3",
-    "gatsby-theme-emulsify": "^2.0.0-alpha.30"
+    "gatsby-theme-emulsify": "^2.1.0"
   },
   "scripts": {
     "develop": "gatsby develop",
