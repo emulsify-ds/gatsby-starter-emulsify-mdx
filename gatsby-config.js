@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: '/mdx-starter', // for deploying to a folder like on Github pages.
+  pathPrefix: '/gatsby-starter-emulsify-mdx', // for deploying to a folder like on Github pages.
   plugins: [
     {
       resolve: 'gatsby-theme-emulsify',
